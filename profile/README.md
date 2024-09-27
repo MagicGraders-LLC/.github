@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ A short introduction - This is the official Organisation for the MagicGraders LLC.
+🙋‍♀️ A short introduction - This is the official Organization for the MagicGraders LLC.
 
 🌈 Contribution guidelines - There will be some public usefull repositories in future to contribute too.
 
